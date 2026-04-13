@@ -1,0 +1,82 @@
+body{
+    background-color: #1C2430;
+    color: white;
+    margin-left: 10px;
+    display: block;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#ran{
+    color:#3EDE76
+}
+
+#generate{
+    background-color: #16B077;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+    border-radius: 5px;
+    height: 50px;
+    padding-bottom: 50px;
+}
+
+
+#pass1, #pass2 {
+    margin-top: 20px;
+    margin-right: 10px;
+    width: 220px;          
+    height: 40px;
+    font-size: 16px;
+    background-color: #232F40;
+    color: #19d18e;
+    border: none;
+    border-radius: 5px;
+
+    font-family: monospace;   
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+#generate:hover{
+    cursor: pointer;
+    background-color: #19d18e;
+}
+
+#generate:active{
+    background-color: #1ae299;
+}
+
+#pass1:hover{
+    cursor:pointer;
+    background-color: #2f3f56;
+}
+
+#pass2:hover{
+    cursor:pointer;
+    background-color: #2f3f56;
+}
+
+#pass1:active{
+    background-color: #6887b3;
+}
+
+#pass2:active{
+    background-color: #6887b3;
+}
+
+#len{
+    margin-top: 8px;
+    width:35px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    text-align: center;
+}
+
+#warning{
+    color:rgb(238, 28, 28)
+}
