@@ -25,7 +25,7 @@ A modern and secure **Password Generator Web App** built using HTML, CSS, and Ja
 
 * HTML5
 * CSS3
-* JavaScript (Vanilla JS)
+* JavaScript
 * Clipboard API
 
 ---
